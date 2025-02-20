@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//ntcn
+// See https://aka.ms/new-console-template for more information
 
  static void task1()
 {
